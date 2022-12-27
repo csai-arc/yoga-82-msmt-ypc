@@ -1,21 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-/*********************************************************************
-*
-*  Copyright (c) 2021, Toshiba Software India Pvt Limited
-*
-*  This file is part of Wafer Defect Classification Sample Training Application Package
-*  File Description : effnetv2.py
-*  This file Creates a EfficientNetV2 Model as defined in: Mingxing Tan, Quoc V. Le. (2021). 
-*  EfficientNetV2: Smaller Models and Faster Training
-*  arXiv preprint arXiv:2104.00298.
-*  import from https://github.com/d-li14/mobilenetv2.pytorch
-*
-*  All rights reserved.
-*
-*********************************************************************/
-"""
-
 from __future__ import division
 
 import torch
