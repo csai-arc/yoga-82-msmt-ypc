@@ -1,20 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-/*********************************************************************
-*
-*  Copyright (c) 2021, Toshiba Software India Pvt Limited
-*
-*  This file is part of Wafer Defect Classification Sample Training Application Package
-*  File Description : resnext.py
-*  This file Creates a ResNeXt Model as defined in: Xie, S., Girshick, R., Dollar, P., Tu, Z., & He, K. (2016). 
-*  Aggregated residual transformations for deep neural networks. 
-*  arXiv preprint arXiv:1611.05431.
-*  import from https://github.com/facebookresearch/ResNeXt/blob/master/models/resnext.lua
-*
-*  All rights reserved.
-*
-*********************************************************************/
-"""
+
 
 
 from __future__ import division
