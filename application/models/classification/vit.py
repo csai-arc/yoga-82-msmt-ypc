@@ -1,20 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-/*********************************************************************
-*
-*  Copyright (c) 2021, Toshiba Software India Pvt Limited
-*
-*  This file is part of Wafer Defect Classification Sample Training Application Package
-*  File Description : vit.py
-*  This file Creates a ViT Model as defined in: 
-*  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-*  arXiv preprint https://arxiv.org/abs/2010.11929.
-*
-*  All rights reserved.
-*
-*********************************************************************/
-"""
-
 import torch
 from torch import nn, einsum
 import torch.nn.functional as F
